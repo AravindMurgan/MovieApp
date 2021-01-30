@@ -32,8 +32,8 @@ header input{
 
 header input::placeholder{
     color: #9964ce;
-    font-style: inherit;
-    font-weight: bold;
+   font-family: 'Poppins';
+
 }
 
 header input:focus{
